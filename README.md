@@ -46,8 +46,9 @@ In summary, the total summary, lot 1 and lot 2 Means are statistically similar t
 As the demand for Electric vehicles, MechaCar wants to increase its production to meet the growing need. To assist MechaCar,a statistical study will be perfomed on the need to increase the production of MechaCar as it competes against other Electric vehicle production. The metrics are  **Cost of Ownership**, **Reliability**, **Ev Motor Performance**, **Interior**, **Safety rating**, **Battery Range** and **Life**, **Waranty** and **Maintenance coverage**. Current consumers on the market consider the above metrics to decide which vehicle to buy. 
 
 **Hypothesis**
-H<sub>0: MechaCar demand is high and prefered to its competitors. 
-H<sub>a: MechaCar does not have a high demand and not prefered compared to its competitors.
+
+H<sub>0<sub>: MechaCar demand is high and prefered to its competitors. 
+H<sub>a<sub>: MechaCar does not have a high demand and not prefered compared to its competitors.
 
 The statisitcal test to be used to test the hypothesis will be the One sample T-Test. This test is easy to perform, interpret and understand. 
 The data needed to run statistical test will be obtained from expert anaylysis and current owners survey.
