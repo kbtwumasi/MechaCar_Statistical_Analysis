@@ -47,8 +47,9 @@ As the demand for Electric vehicles, MechaCar wants to increase its production t
 
 **Hypothesis**
 
-H<sub>0<sub>: MechaCar demand is high and prefered to its competitors. 
-H<sub>a<sub>: MechaCar does not have a high demand and not prefered compared to its competitors.
+H<sub>0</sub>: MechaCar demand is high and prefered to its competitors. 
+  
+H<sub>a</sub>: MechaCar does not have a high demand and not prefered compared to its competitors.
 
 The statisitcal test to be used to test the hypothesis will be the One sample T-Test. This test is easy to perform, interpret and understand. 
 The data needed to run statistical test will be obtained from expert anaylysis and current owners survey.
