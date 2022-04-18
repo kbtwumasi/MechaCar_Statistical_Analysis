@@ -6,7 +6,7 @@
   - The Vehicle lenght and ground clearance and intercept coefficients provided a non-random amount of variance to the mpg values.
 
 - Is the slope of the linear model considered to be zero? Why or why not?
-  - The slope of the linear model is not zero. Assuming a significance level of 0.05%, the p-value of the linear regression is 5.35 X 10^-11 which is smaller than the significance level, therefore there is significant evidence to reject the hypothesis that the slope is zero.
+  - The slope of the linear model is not zero. Assuming a significance level of 0.05%, the p-value of the linear regression is 5.35 X 10<sup>-11</sup> which is smaller than the significance level, therefore there is significant evidence to reject the hypothesis that the slope is zero.
 
 - Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not? 
   - No. Since the intercept is statistically significant, there maybe other that are significant to the MPG. This means the vehicle lenght and ground clearance may need scaling to help improve the predictive power of the model, or other variables that have been excluded.
